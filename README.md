@@ -1,3 +1,2 @@
-# Rock-paper-scissors
-Zuri task 
+# Rock-paper-scissors (ZURI TASK)
 https://github.com/Domaka/Rock-paper-scissors/blob/main/RPS.py
